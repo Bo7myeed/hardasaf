@@ -3,13 +3,13 @@
   "material": "entity_alphatest_change_color_one_sided",
   "blend_transition": true,
   "per_texture_uv_size": {
-    "welcome": [1000, 320],
-    "s2": [1000, 320],
-    "island": [1000, 320],
-    "valooria": [1000, 320],
+    "welcome": [128, 128],
+    "s2": [128, 128],
+    "island": [128, 128],
+    "valooria": [128, 128],
     "sword": [20, 26],
     "2023_04_16_entop--variant--x2--21523059": [64, 64],
-    "dungeons-skull": [110, 130]
+    "dungeons-skull": [128, 128]
   },
   "binding_bones": {
     "2023_04_16_entop--variant--x2--21523059": ["body2", "head2", "left_leg", "right_leg", "left_arm", "right_arm"],
