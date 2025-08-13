@@ -1,0 +1,24 @@
+{
+  "head_rotation": true,
+  "material": "entity_alphatest_change_color_one_sided",
+  "blend_transition": true,
+  "per_texture_uv_size": {
+    "welcome": [1000, 320],
+    "s2": [1000, 320],
+    "island": [1000, 320],
+    "valooria": [1000, 320],
+    "sword": [20, 26],
+    "2023_04_16_entop--variant--x2--21523059": [64, 64],
+    "dungeons-skull": [110, 130]
+  },
+  "binding_bones": {
+    "2023_04_16_entop--variant--x2--21523059": ["body2", "head2", "left_leg", "right_leg", "left_arm", "right_arm"],
+    "s2": ["season", "open_terminator4", "seasssson", "leason", "dangit", "close_terminator4"],
+    "welcome": ["welcome_to", "open_terminator3", "w", "e", "l3", "c", "o2", "m", "e2", "space", "t", "o3", "space2", "stop", "close_terminator3"],
+    "island": ["island", "open_terminator2", "i2", "s", "l2", "a2", "n", "d", "close_terminator2"],
+    "valooria": ["valoria", "open_terminator", "v", "a", "l", "o", "r", "i", "aa", "close_terminator"],
+    "sword": ["sword"],
+    "dungeons-skull": ["dungeons-skull"]
+  },
+  "anim_textures": {}
+}
